@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b702b0906faf97c94fb3c1a0c749dbc8",
+    "revision": "f802025252f3557c4455cd597df402d1",
     "url": "/iliya-hacker/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iliya-hacker/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "7e12398b91718850e9bd",
+    "revision": "45b51ef53f4786a3dcde",
     "url": "/iliya-hacker/static/css/main.4aa801de.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iliya-hacker/static/js/2.1c9c105e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7e12398b91718850e9bd",
-    "url": "/iliya-hacker/static/js/main.a02c9a5b.chunk.js"
+    "revision": "45b51ef53f4786a3dcde",
+    "url": "/iliya-hacker/static/js/main.b6fc74b3.chunk.js"
   },
   {
     "revision": "fcd38dc8a8230f40273b",
