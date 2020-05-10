@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/iliya-hacker/static/css/main.4aa801de.chunk.css",
+    "main.js": "/iliya-hacker/static/js/main.a02c9a5b.chunk.js",
+    "main.js.map": "/iliya-hacker/static/js/main.a02c9a5b.chunk.js.map",
+    "runtime-main.js": "/iliya-hacker/static/js/runtime-main.c28cded0.js",
+    "runtime-main.js.map": "/iliya-hacker/static/js/runtime-main.c28cded0.js.map",
+    "static/css/2.e4346227.chunk.css": "/iliya-hacker/static/css/2.e4346227.chunk.css",
+    "static/js/2.1c9c105e.chunk.js": "/iliya-hacker/static/js/2.1c9c105e.chunk.js",
+    "static/js/2.1c9c105e.chunk.js.map": "/iliya-hacker/static/js/2.1c9c105e.chunk.js.map",
+    "index.html": "/iliya-hacker/index.html",
+    "precache-manifest.55fbfd1919a4afcaa7ccf40aaafdf894.js": "/iliya-hacker/precache-manifest.55fbfd1919a4afcaa7ccf40aaafdf894.js",
+    "service-worker.js": "/iliya-hacker/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/iliya-hacker/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.4aa801de.chunk.css.map": "/iliya-hacker/static/css/main.4aa801de.chunk.css.map",
+    "static/js/2.1c9c105e.chunk.js.LICENSE.txt": "/iliya-hacker/static/js/2.1c9c105e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c28cded0.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.1c9c105e.chunk.js",
+    "static/css/main.4aa801de.chunk.css",
+    "static/js/main.a02c9a5b.chunk.js"
+  ]
+}
